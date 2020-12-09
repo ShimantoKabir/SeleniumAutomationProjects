@@ -1,0 +1,12 @@
+C:\Projects\DotNetProjects\EspAuto\bin\Debug\netcoreapp2.1\EspAuto.deps.json
+C:\Projects\DotNetProjects\EspAuto\bin\Debug\netcoreapp2.1\EspAuto.runtimeconfig.json
+C:\Projects\DotNetProjects\EspAuto\bin\Debug\netcoreapp2.1\EspAuto.runtimeconfig.dev.json
+C:\Projects\DotNetProjects\EspAuto\bin\Debug\netcoreapp2.1\EspAuto.dll
+C:\Projects\DotNetProjects\EspAuto\bin\Debug\netcoreapp2.1\EspAuto.pdb
+C:\Projects\DotNetProjects\EspAuto\obj\Debug\netcoreapp2.1\EspAuto.csprojAssemblyReference.cache
+C:\Projects\DotNetProjects\EspAuto\obj\Debug\netcoreapp2.1\EspAuto.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetProjects\EspAuto\obj\Debug\netcoreapp2.1\EspAuto.AssemblyInfoInputs.cache
+C:\Projects\DotNetProjects\EspAuto\obj\Debug\netcoreapp2.1\EspAuto.AssemblyInfo.cs
+C:\Projects\DotNetProjects\EspAuto\obj\Debug\netcoreapp2.1\EspAuto.dll
+C:\Projects\DotNetProjects\EspAuto\obj\Debug\netcoreapp2.1\EspAuto.pdb
+C:\Projects\DotNetProjects\EspAuto\obj\Debug\netcoreapp2.1\EspAuto.genruntimeconfig.cache
