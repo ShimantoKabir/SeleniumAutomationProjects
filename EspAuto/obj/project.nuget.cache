@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mgzALuTTzgaXJyOdrFnV529WPtuDejrQZdPryidX+5ZzZEJBALcrDz4vjuXCSYW5M73n0ZsnIW+jvY2NXx5TvA==",
+  "dgSpecHash": "0lu75h6NorIJkkqvmmDdbzg9fRwJIubxea8s3cI7ouvD+Ru3aCzzJGbr59AujiNCf54nVEfT41kghNTY/D3kiQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\DotNetProjects\\EspAuto\\EspAuto.csproj",
+  "projectFilePath": "C:\\Projects\\GitHub\\SeleniumAutomationProjects\\EspAuto\\EspAuto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\hangfire.aspnetcore\\1.7.18\\hangfire.aspnetcore.1.7.18.nupkg.sha512",

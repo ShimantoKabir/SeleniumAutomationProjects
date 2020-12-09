@@ -15,8 +15,7 @@ namespace EspAuto
             {
 
                 ProductPreview productPreview = new ProductPreview(webDriver);
-                string url = "https://www.espares.co.uk/search/pt1590/cooker-hoods/buttons-and-switches?page=2";
-                productPreview.run(url);
+                productPreview.run();
 
             }
             catch (Exception ex)

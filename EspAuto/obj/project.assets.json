@@ -2866,11 +2866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DotNetProjects\\EspAuto\\EspAuto.csproj",
+      "projectUniqueName": "C:\\Projects\\GitHub\\SeleniumAutomationProjects\\EspAuto\\EspAuto.csproj",
       "projectName": "EspAuto",
-      "projectPath": "C:\\Projects\\DotNetProjects\\EspAuto\\EspAuto.csproj",
+      "projectPath": "C:\\Projects\\GitHub\\SeleniumAutomationProjects\\EspAuto\\EspAuto.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DotNetProjects\\EspAuto\\obj\\",
+      "outputPath": "C:\\Projects\\GitHub\\SeleniumAutomationProjects\\EspAuto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

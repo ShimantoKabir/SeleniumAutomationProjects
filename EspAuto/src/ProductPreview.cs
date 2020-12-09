@@ -13,8 +13,33 @@ namespace EspAuto
         {
             this.webDriver = webDriver;
         }
+
+        public void run()
+        {
+            webDriver.Navigate().GoToUrl("http://espares.co.uk/");
+            Console.WriteLine(webDriver.Title + " ~ loaded!");
+                
+            ReadOnlyCollection<IWebElement> megaMenuPanelElmLinks = webDriver
+                .FindElements(By.CssSelector(".mobile-megamenu-panel>ul>li>a"));
+
+            List<string> megaMenuPanelLinks = new List<string>();
+            foreach (var link in megaMenuPanelElmLinks)
+            {
+                if (link.GetAttribute("href").Contains("search"))
+                {
+                    megaMenuPanelLinks.Add(link.GetAttribute("href"));   
+                }
+
+            }
+
+            foreach (var link in megaMenuPanelLinks)
+            {
+                Console.WriteLine(link+" ~ mega men link");
+                search(link);
+            }
+        }
         
-        public void run(string url)
+        public void search(string url)
         {
             
             webDriver.Navigate().GoToUrl(url);
@@ -34,7 +59,7 @@ namespace EspAuto
             else
             {
                 IWebElement paginationLiLink = webDriver.FindElement(By.CssSelector(".pagination>li:last-child>a"));
-                run(paginationLiLink.GetAttribute("href"));
+                search(paginationLiLink.GetAttribute("href"));
             }
 
         }
