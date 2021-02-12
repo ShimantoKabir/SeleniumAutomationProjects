@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Projects/GitHub/SeleniumAutomationProjects/EsparesTestAutomation">
+        <classes>
+            <class name="org.connect.espares.EsparesNews">
+                <methods>
+                    <include name="newsForm"/>
+                </methods>
+            </class>
+            <class name="org.connect.espares.HomepageFooter">
+                <methods>
+                    <include name="footerLinkValidation"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
